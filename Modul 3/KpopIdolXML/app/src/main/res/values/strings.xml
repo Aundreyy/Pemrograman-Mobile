@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KpopIdolXML</string>
+    <string name="label_deskripsi">Deskripsi: </string>
+    <string name="btn_detail">Detail</string>
+    <string name="btn_instagram">Instagram</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_idol">Top Idol</string>
+    <string name="daftar_lengkap">Daftar Lengkap</string>
+    <string name="foto_idol">Foto Idol</string>
+</resources>
